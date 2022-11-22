@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+![Russell's GitHub stats](https://github-readme-stats.vercel.app/api?username=russellromney&count_private=true)
+
+Building the food app that will take over the world - starting with food culture for the youth and creators. 
+
+I'm always interested in urbanism, affordable housing, mountain biking, and data tooling.
+
 <!--
 **russellromney/russellromney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
