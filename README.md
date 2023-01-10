@@ -1,6 +1,8 @@
 ### Hi! ⛰️
 
+<!--
 ![Russell's GitHub stats](https://github-readme-stats.vercel.app/api?username=russellromney&count_private=true)
+-->
 
 I'm currently working @popchew, building the food app that will take over the world - starting with food culture for the youth and creators. 
 
